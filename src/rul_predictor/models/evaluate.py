@@ -6,7 +6,7 @@ import numpy as np
 
 def evaluate_reg(model , X , y) :
 
-    pred = model.predecy(X)
+    pred = model.predict(X)
 
     mae = mean_absolute_error(
         y,
