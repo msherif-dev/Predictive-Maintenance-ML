@@ -1,7 +1,7 @@
 Predictive Maintenance Pipeline: Turbofan Engine RUL
 # Predictive Maintenance Pipeline: Turbofan Engine RUL
 
-[![Open in Streamlit](https://predictive-maintenance-ml-nrg6d97a6cbrt5y4irykm8.streamlit.app/)
+https://predictive-maintenance-ml-nrg6d97a6cbrt5y4irykm8.streamlit.app/
 
 ## 1. Project Overview
 This project implements a machine learning pipeline for predictive maintenance, specifically designed to estimate the Remaining Useful Life (RUL) of turbofan engines. By analyzing time-series sensor data and operational settings, the model predicts how many cycles an engine has left before failure. The project includes automated data profiling, robust feature engineering, model evaluation, and an interactive web interface built with Streamlit for real-time predictions.
