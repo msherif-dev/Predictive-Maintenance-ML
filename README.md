@@ -38,6 +38,8 @@ Feature Engineering: We applied a piece-wise linear degradation target (capping 
 
 Final Results: The Bagging Regressor (using a Decision Tree base) outperformed the other models based on Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and R² scores. It was selected as the final model for deployment.
 
+![Model Comparison](comparison.png)
+
 ## 4. Setup and Installation
 Ensure you have Python 3.8+ installed. You can install all the required dependencies using pip. Open your terminal or command prompt and run:
 
